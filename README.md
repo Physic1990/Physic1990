@@ -21,7 +21,7 @@
 
 👋 Hello, I'm Shashwot, a passionate junior at the University of Idaho, on a journey towards a Bachelor's degree in Computer Science with a specialized focus on GIS and Remote Sensing along with Machine Learning and AI.
 
-- :telescope: I’m currently looking for a Summer 2024 Intern in the field of Computer Science and GIS.
+- :telescope: I’m currently looking for something to do in the field of Computer Science and GIS.
 
 - 🤔: Why GIS and Remote Sensing with CS? Many people have been asking me this question lately. Here's my answer: I became interested in this field during my last internship, which was related to geo-tech. I am taking some certificate courses at university to learn more. I want to use my computer science skills and combine them with geo-tech because it's a new and growing field with lots of potential. 🌍🛰️🖥️
 
