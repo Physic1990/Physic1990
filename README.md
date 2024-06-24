@@ -19,7 +19,7 @@
 
 
 
-👋 Hello, I'm Shashwot, a passionate junior at the University of Idaho, on a journey towards a Bachelor's degree in Computer Science with a specialized focus on GIS and Remote Sensing along with Machine Learning and AI.
+👋 Hello, I'm Shashwot, a passionate senior at the University of Idaho, on a journey towards a Bachelor's degree in Computer Science with a specialized focus on GIS and Remote Sensing along with Machine Learning and AI.
 
 - :telescope: I’m currently looking for something to do in the field of Computer Science and GIS.
 
